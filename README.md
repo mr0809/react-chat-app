@@ -8,3 +8,5 @@ Setup:
 Explanation:
 
 npm is a package manager of javascript libraries.
+
+nvm is different from npm.
