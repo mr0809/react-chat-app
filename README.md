@@ -8,3 +8,7 @@ Setup:
 Explanation:
 
 npm is a package manager of javascript libraries.
+
+nvm is different from npm.
+
+NVM is used for changing node versions without installing the nodejs manually.
